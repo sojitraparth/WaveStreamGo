@@ -65,10 +65,3 @@ Contributing
 
 Pull requests and suggestions are welcome. Open an issue or submit a PR!
 
----
-
-**How to use:**  
-- Save as `README.md` in your project root.
-- Commit & push to GitHub.
-
-Let me know if you want badges (build status, Go report, etc.), or a shorter/longer version!
