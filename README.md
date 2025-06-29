@@ -1,9 +1,3 @@
-Here’s a clean, professional README.md for your WaveStreamGo project!
-Feel free to tweak or request a more detailed/shorter one.
-
-⸻
-
-
 # WaveStreamGo
 
 WaveStreamGo is a lightweight, high-performance Go library for text-to-speech (TTS) and audio synthesis, bridging Go and C++ for fast audio processing.
