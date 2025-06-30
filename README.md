@@ -58,10 +58,8 @@ Author
 
 Parth Sojitra
 GitHub
-
 ⸻
 
 Contributing
-
 Pull requests and suggestions are welcome. Open an issue or submit a PR!
 
